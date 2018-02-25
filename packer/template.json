@@ -135,6 +135,8 @@
         "../scripts/puppet.sh",
         "../scripts/add-network-interface-detection.sh",
         "../scripts/autologin.sh",
+        "../scripts/energy.sh",
+        "../scripts/spotlight.sh",
         "../scripts/system-update.sh",
         "../scripts/shrink.sh"
       ],
